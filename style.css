@@ -1,0 +1,30 @@
+body{
+    background-color: lightskyblue;
+}
+.login-form {
+    max-width: 300px;
+    margin: 0 auto;
+    background-color: lightskyblue;
+    color: darkblue;
+    font-size: 20px;
+}
+.invalid{
+    border: 1px solid red ;
+}
+.btn{
+    min-width: 200px;
+    display: block;
+    margin: 0 auto;
+    background-color: lightgreen;
+    font-size: 16px;
+    color: darkblue;
+    padding: 5px;
+}
+.input-field {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+.invalid-button{
+    background-color: gray;
+}
